@@ -33,6 +33,7 @@
 - [🎬 Interactive Demo Flow](#-interactive-demo-flow)
 - [🔧 Troubleshooting & FAQs](#-troubleshooting--faqs)
 - [🛣️ Production Roadmap](#️-production-roadmap)
+- [👥 Team Members](#-team-members)
 - [📄 License](#-license)
 
 ---
@@ -590,6 +591,14 @@ Step 6: Citizen Mobile Evacuation
   - Deploy YOLOv8 edge compute nodes directly on venue RTSP CCTV streams.
 - [ ] **Phase 5: Predictive AI Density Forecasting**
   - Train LSTM / Graph Neural Networks on historical `crowd_data` to forecast crowd congestion 15 minutes before bottlenecks occur.
+
+---
+
+## 👥 Team Members
+
+- Himanshu Kumar Rout
+- Chandrakanta Mandal
+- Kanhu Charan Swain
 
 ---
 
