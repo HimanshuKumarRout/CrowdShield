@@ -598,7 +598,7 @@ Step 6: Citizen Mobile Evacuation
 
 - Himanshu Kumar Rout
 - Chandrakanta Mandal
-- Kanhu Charan Swain
+- Kalakanhu Swain
 
 ---
 
