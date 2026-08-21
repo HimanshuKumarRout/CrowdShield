@@ -406,8 +406,8 @@ Run the backend server, admin web dashboard, and 3D simulator with a single comm
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/chandrakantamandal/crowdshield.git
 git clone https://github.com/HimanshuKumarRout/crowdshield.git
+git clone https://github.com/chandrakantamandal/crowdshield.git
 git clone https://github.com/kalakanhuswain18-hub/crowdshield.git
 cd crowdshield
 
