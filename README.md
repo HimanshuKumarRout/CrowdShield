@@ -586,12 +586,12 @@ Step 6: Citizen Mobile Evacuation
   - 3D simulator telemetry ingestion, multi-factor risk engine, basic SOP recommendations.
 - [x] **Phase 2: Client Dashboards & Mobile Alerting** (Completed)
   - Operator React 19 console, Expo citizen mobile app, Supabase persistence.
-- [ ] **Phase 3: Event-Driven Stream Architecture**
+- [x] **Phase 3: Event-Driven Stream Architecture**
   - Replace polling with WebSockets / Server-Sent Events (SSE).
   - Integrate Apache Kafka / Redis Streams for high-throughput chokepoints.
-- [ ] **Phase 4: Multi-Camera Computer Vision Ingestion**
+- [x] **Phase 4: Multi-Camera Computer Vision Ingestion**
   - Deploy YOLOv8 edge compute nodes directly on venue RTSP CCTV streams.
-- [ ] **Phase 5: Predictive AI Density Forecasting**
+- [x] **Phase 5: Predictive AI Density Forecasting**
   - Train LSTM / Graph Neural Networks on historical `crowd_data` to forecast crowd congestion 15 minutes before bottlenecks occur.
 
 ---
